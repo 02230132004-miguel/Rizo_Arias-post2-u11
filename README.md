@@ -337,30 +337,58 @@ git clone URL_DEL_REPOSITORIO
 
 ---
 
-## Ejecución de Fastlane en CI/CD
+##  Creación de nota sin conexión
 
-![fastlane_post2](evidencias/captura_fastlane_post2.png)
-
----
-
-## Lanes configuradas en Fastlane
-
-![lanes_post2](evidencias/captura_lanes_post2.png)
+![fastlane_post2](evidencias/p1.png)
 
 ---
 
-## Feature Flag en Firebase Remote Config
+## Estado pendiente de sincronización
 
-![remote_config_post2](evidencias/captura_remote_config_post2.png)
-
----
-
-## Cambio de comportamiento en la app (Feature Flag ON/OFF)
-
-![feature_flag_post2](evidencias/captura_feature_flag_post2.png)
+![fastlane_post2](evidencias/p2.png)
 
 ---
 
-## Validación de Conventional Commits
+## Estado sincronizado
 
-![commits_post2](evidencias/captura_commits_post2.png)
+![fastlane_post2](evidencias/p3.png)
+
+---
+
+## Estado de conflicto
+
+![fastlane_post2](evidencias/p4.png)
+
+---
+
+## Worker ejecutándose
+
+![fastlane_post2](evidencias/p5.png)
+
+---
+
+##  Worker finalizado correctamente
+
+![fastlane_post2](evidencias/p6.png)
+
+
+---
+
+## App Inspection
+
+![fastlane_post2](evidencias/p7.png)
+
+
+---
+
+## Evidencia OpenTelemetry
+
+![fastlane_post2](evidencias/p8.png)
+
+
+---
+
+## Flujo completo de sincronización
+
+![fastlane_post2](evidencias/p9.png)
+
