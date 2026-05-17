@@ -332,3 +332,35 @@ git clone URL_DEL_REPOSITORIO
 8. Verificar sincronización automática
 
 ---
+
+# Evidencias
+
+---
+
+## Ejecución de Fastlane en CI/CD
+
+![fastlane_post2](evidencias/captura_fastlane_post2.png)
+
+---
+
+## Lanes configuradas en Fastlane
+
+![lanes_post2](evidencias/captura_lanes_post2.png)
+
+---
+
+## Feature Flag en Firebase Remote Config
+
+![remote_config_post2](evidencias/captura_remote_config_post2.png)
+
+---
+
+## Cambio de comportamiento en la app (Feature Flag ON/OFF)
+
+![feature_flag_post2](evidencias/captura_feature_flag_post2.png)
+
+---
+
+## Validación de Conventional Commits
+
+![commits_post2](evidencias/captura_commits_post2.png)
