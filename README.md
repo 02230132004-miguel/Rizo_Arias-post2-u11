@@ -339,56 +339,21 @@ git clone URL_DEL_REPOSITORIO
 
 ##  Creación de nota sin conexión
 
-![fastlane_post2](evidencias/p1.png)
+![fastlane_post2](evidencias/p1.0.png)
 
 ---
 
 ## Estado pendiente de sincronización
 
-![fastlane_post2](evidencias/p2.png)
+![fastlane_post2](evidencias/p2.0.png)
 
 ---
 
 ## Estado sincronizado
 
-![fastlane_post2](evidencias/p3.png)
-
----
-
-## Estado de conflicto
-
-![fastlane_post2](evidencias/p4.png)
-
----
-
-## Worker ejecutándose
-
-![fastlane_post2](evidencias/p5.png)
-
----
-
-##  Worker finalizado correctamente
-
-![fastlane_post2](evidencias/p6.png)
+![fastlane_post2](evidencias/p3.0.png)
 
 
----
-
-## App Inspection
-
-![fastlane_post2](evidencias/p7.png)
 
 
----
-
-## Evidencia OpenTelemetry
-
-![fastlane_post2](evidencias/p8.png)
-
-
----
-
-## Flujo completo de sincronización
-
-![fastlane_post2](evidencias/p9.png)
 
