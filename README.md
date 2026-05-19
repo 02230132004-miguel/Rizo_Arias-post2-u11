@@ -339,19 +339,19 @@ git clone URL_DEL_REPOSITORIO
 
 ##  Creación de nota sin conexión
 
-![fastlane_post2](evidencias/p1.0.png)
+![fastlane_post2](evidencias/cap1.0.png)
 
 ---
 
 ## Estado pendiente de sincronización
 
-![fastlane_post2](evidencias/p2.0.png)
+![fastlane_post2](evidencias/cap2.0.png)
 
 ---
 
 ## Estado sincronizado
 
-![fastlane_post2](evidencias/p3.0.png)
+![fastlane_post2](evidencias/cap3.0.png)
 
 
 
